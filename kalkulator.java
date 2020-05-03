@@ -1,8 +1,6 @@
 package com.suhandi; // change this package | Ubah Nama Package sesuai direktori kamu
-import java.util.Scanner;
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.util.*;
+
 
 // COPYRIGHT © 2020 SuhandiProject
 // Open Source.
